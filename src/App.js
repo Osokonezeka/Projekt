@@ -1,8 +1,8 @@
-import Menu from "./menu/Menu.jsx"
-import Content from "./content/content/content.jsx"
-import AboutUs from "./content/aboutUs/aboutUs.jsx"
-import AcceptBox from "./content/accept-box/acceptBox.jsx"
-import "./style/_index.scss"
+import Menu from "./menu/Menu.jsx";
+import Content from "./content/content/content.jsx";
+import AboutUs from "./content/aboutUs/aboutUs.jsx";
+import AcceptBox from "./content/accept-box/acceptBox.jsx";
+import "./style/_index.scss";
 function App() {
   return (
     <div className="App">

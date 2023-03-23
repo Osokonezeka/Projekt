@@ -1,20 +1,20 @@
-.content{
-    margin-top: 2%;
-    padding: 3% 5%;
+.content {
+  margin-top: 2%;
+  padding: 3% 5%;
+  text-align: center;
+
+  .line {
+    margin-left: 45%;
+    margin-right: 45%;
+  }
+  .line::before {
+    content: "◟  ◞";
+    display: block;
     text-align: center;
-    
-    .line{
-        margin-left: 45%;
-        margin-right: 45%;
-    }
-    .line::before {
-        content: '◟  ◞';
-        display: block;
-        text-align: center;
-      }
+  }
 }
 
-.closingTag{
-    margin-left: 2%;
-    margin-right: 2%;
+.closingTag {
+  margin-left: 2%;
+  margin-right: 2%;
 }

@@ -113,7 +113,7 @@ function AboutUs() {
             </Accordion.Item>
           </Accordion>
         </div>
-        <hr className="line" id="acceptOptions"/>
+        <hr className="line" id="acceptOptions" />
       </div>
     </>
   );
